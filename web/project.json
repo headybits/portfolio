@@ -19,7 +19,7 @@
             "input": "web/public"
           }
         ],
-        "styles": ["web/src/styles.css"]
+        "styles": ["web/src/styles.scss"]
       },
       "configurations": {
         "production": {
